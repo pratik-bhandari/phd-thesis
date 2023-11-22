@@ -1,0 +1,29 @@
+# Welcome {-}
+
+::: {.row}
+:::::: {.col-sm-6}
+Welcome to read my dissertation. I defended it on 07.12.2022. You can find my other publications [here](https://scholar.google.com/citations?hl=en&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate) and [here](https://sites.google.com/view/pratik-bhandari/publications).
+
+<p style="font-size: 9px;"> This dissertation has been published by Saarland University library. It is the official and standard, not this web version. </p>
+<!-- You can also download the pdf file (click [here](https://osf.io/5cy2q/), or the cover page). -->
+
+
+::::::::: {.byline}
+Pratik Bhandari \
+28 December 2022
+:::::::::
+::::::
+
+:::::: {.col-sm-6 .thesis-cover}
+<a href="https://osf.io/5cy2q/" target="_blank"><img src="templates/cover.png" alt="Download PDF" class="img-fluid"/></a> 
+::::::
+:::
+
+## Abstract {-}
+```{r abstract, child=here::here('front-and-back-matter/_abstract.Rmd')}
+```
+
+
+## Acknowledgments {-}
+```{r acknowledgments, child=here::here('front-and-back-matter/_acknowledgements.Rmd')}
+```

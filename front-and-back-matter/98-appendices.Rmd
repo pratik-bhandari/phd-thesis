@@ -1,0 +1,606 @@
+`r if(knitr:::is_latex_output()) '\\startappendices'`
+
+`r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'` 
+
+<!-- If you feel it necessary to include an appendix, it goes here. The first appendix should include the commands above. -->
+
+
+# Experimental items {#appendix-A} 
+
+High, Medium, and Low predictability sentences were used in Chapters \@ref(chapter-attention-prediction) and \@ref(chapter-graded-prediction).
+In Chapter \@ref(chapter-speech-rate), only High and Low predictability sentences were used.
+
+<!--The following table presents all the sentences with the cloze probability of the target word (noun) in each of those sentences
+and the source of the sentences as mentioned in Chapter \@ref(chapter-methods) (Section \@ref(experimental-materials)).-->
+<!--https://stackoverflow.com/questions/41690802/convert-csv-file-contents-to-markdown
+https://www.convertcsv.com/csv-to-markdown.htm-->
+
+| sn | predictability | sentence                        | cloze probability of the noun | sources |
+|----|---------------|---------------------------------|------------------------|---------|
+| 1   | High             | Er loest die Aufgabe            | 0.6                           | S      |
+| 2   | High             | Sie verweigert die Aussage      | 0.57                          | O      |
+| 3   | High             | Er verschrottet das Auto        | 0.84                          | O      |
+| 4   | High             | Er betankt das Auto             | 0.9                           | S      |
+| 5   | High             | Er blitzt den Autofahrer        | 0.6                           | S      |
+| 6   | High             | Er fliest das Bad               | 0.88                          | O      |
+| 7   | High             | Sie jongliert die Baelle        | 0.85                          | S      |
+| 8   | High             | Er dribbelt den Ball            | 0.95                          | S      |
+| 9   | High             | Er ueberfaellt die Bank         | 0.85                          | S      |
+| 10  | High             | Er faellt den Baum              | 0.69                          | O      |
+| 11  | High             | Sie bepflanzt das Beet          | 0.6                           | O      |
+| 12  | High             | Er schient das Bein             | 1                             | O      |
+| 13  | High             | Er erklimmt den Berg            | 0.6                           | S      |
+| 14  | High             | Sie bezieht das Bett            | 0.64                          | O      |
+| 15  | High             | Er zapft das Bier               | 0.95                          | S      |
+| 16  | High             | Sie rahmt das Bild              | 0.9                           | S      |
+| 17  | High             | Sie faltet das Blatt            | 0.65                          | S      |
+| 18  | High             | Sie spitzt den Bleistift        | 0.9                           | S      |
+| 19  | High             | Sie giesst die Blumen           | 0.7                           | S      |
+| 20  | High             | Sie wischt den Boden            | 0.8                           | S      |
+| 21  | High             | Er lutscht das Bonbon           | 0.68                          | O      |
+| 22  | High             | Sie toastet das Brot            | 0.88                          | O      |
+| 23  | High             | Sie liest das Buch              | 0.68                          | O      |
+| 24  | High             | Sie kloeppelt das Deckchen      | 0.6                           | O      |
+| 25  | High             | Sie schleckt das Eis            | 0.92                          | O      |
+| 26  | High             | Sie errechnet das Ergebnis      | 0.56                          | O      |
+| 27  | High             | Er wuerzt das Essen             | 0.6                           | O      |
+| 28  | High             | Er tappt in die Falle           | 0.8                           | S      |
+| 29  | High             | Er berichtigt den Fehler        | 0.7                           | S      |
+| 30  | High             | Er pfluegt das Feld             | 0.8                           | S      |
+| 31  | High             | Sie putzt das Fenster           | 0.64                          | O      |
+| 32  | High             | Er veranstaltet das Fest        | 0.56                          | O      |
+| 33  | High             | Er entfacht das Feuer           | 0.95                          | S      |
+| 34  | High             | Er hisst die Flagge             | 0.85                          | S      |
+| 35  | High             | Es lodern die Flammen           | 0.9                           | S      |
+| 36  | High             | Er fliegt das Flugzeug          | 0.8                           | O      |
+| 37  | High             | Sie posiert fŸr das Foto        | 0.75                          | S      |
+| 38  | High             | Sie dichtet das Gedicht         | 0.6                           | O      |
+| 39  | High             | Er verraet das Geheimnis        | 0.8                           | S      |
+| 40  | High             | Sie zaehlt das Geld             | 0.8                           | S      |
+| 41  | High             | Sie duenstet das Gemuese        | 0.75                          | S      |
+| 42  | High             | Sie erzaehlt die Geschichte     | 0.81                          | O      |
+| 43  | High             | Sie spuelt das Geschirr         | 0.92                          | O      |
+| 44  | High             | Sie stemmt das Gewicht          | 0.7                           | S      |
+| 45  | High             | Er zerbricht das Glas           | 0.72                          | O      |
+| 46  | High             | Er maeht das Gras               | 0.88                          | O      |
+| 47  | High             | Sie pachtet das Grundstueck     | 0.65                          | O      |
+| 48  | High             | Sie buerstet die Haare          | 0.75                          | S      |
+| 49  | High             | Es kraeht der Hahn              | 0.8                           | S      |
+| 50  | High             | Sie saniert das Haus            | 0.66                          | O      |
+| 51  | High             | Er baut das Haus                | 0.88                          | O      |
+| 52  | High             | Sie hobelt das Holz             | 0.76                          | O      |
+| 53  | High             | Sie Ÿbernachtet im Hotel        | 0.7                           | S      |
+| 54  | High             | Er rupft das Huhn               | 0.8                           | S      |
+| 55  | High             | Er fuettert den Hund            | 0.65                          | S      |
+| 56  | High             | Sie pellt die Kartoffeln        | 0.6                           | S      |
+| 57  | High             | Sie erzieht das Kind            | 0.8                           | S      |
+| 58  | High             | Er ermahnt das Kind             | 0.85                          | S      |
+| 59  | High             | Sie gebŠrt das Kind             | 1                             | S      |
+| 60  | High             | Sie naeht das Kleid             | 0.8                           | O      |
+| 61  | High             | Sie beugt die Knie              | 0.6                           | S      |
+| 62  | High             | Sie backt den Kuchen            | 0.95                          | S      |
+| 63  | High             | Sie melkt die Kuh               | 0.95                          | S      |
+| 64  | High             | Sie beraet den Kunden           | 0.56                          | O      |
+| 65  | High             | Sie bereist das Land            | 0.76                          | O      |
+| 66  | High             | Er erkundet die Landschaft      | 0.75                          | S      |
+| 67  | High             | Er klagt das Leid               | 0.56                          | O      |
+| 68  | High             | Sie komponiert das Lied         | 0.95                          | S      |
+| 69  | High             | Er bohrt das Loch               | 0.8                           | S      |
+| 70  | High             | Er baendigt den Loewen          | 0.6                           | S      |
+| 71  | High             | Sie gefaellt dem Mann           | 0.6                           | O      |
+| 72  | High             | Er verschreibt das Medikament   | 0.65                          | S      |
+| 73  | High             | Sie siebt das Mehl              | 0.76                          | O      |
+| 74  | High             | Er summt die Melodie            | 0.8                           | S      |
+| 75  | High             | Er schaerft das Messer          | 0.84                          | O      |
+| 76  | High             | Er entsorgt den Muell           | 0.95                          | S      |
+| 77  | High             | Sie schnaeuzt die Nase          | 0.9                           | S      |
+| 78  | High             | Er heizt den Ofen               | 0.8                           | S      |
+| 79  | High             | Er dirigiert das Orchester      | 0.6                           | O      |
+| 80  | High             | Sie verschickt das Paket        | 0.7                           | S      |
+| 81  | High             | Er reitet das Pferd             | 1                             | O      |
+| 82  | High             | Er besteht die Pruefung         | 0.67                          | O      |
+| 83  | High             | Sie strickt den Pullover        | 0.61                          | O      |
+| 84  | High             | Er bezahlt die Rechnung         | 0.65                          | S      |
+| 85  | High             | Sie massiert den Ruecken        | 0.7                           | S      |
+| 86  | High             | Sie verstreut das Salz          | 0.6                           | O      |
+| 87  | High             | Er kapert das Schiff            | 0.76                          | O      |
+| 88  | High             | Er schmilzt den Schnee          | 0.75                          | S      |
+| 89  | High             | Es rieselt der Schnee           | 0.85                          | S      |
+| 90  | High             | Sie paniert das Schnitzel       | 0.9                           | S      |
+| 91  | High             | Er besohlt den Schuh            | 0.9                           | S      |
+| 92  | High             | Er schlachtet das Schwein       | 0.76                          | O      |
+| 93  | High             | Sie gewinnt das Spiel           | 0.6                           | O      |
+| 94  | High             | Sie mistet den Stall aus        | 0.75                          | S      |
+| 95  | High             | Sie bewirbt sich auf die Stelle | 0.75                          | S      |
+| 96  | High             | Sie Ÿberquert die Straße        | 0.6                           | S      |
+| 97  | High             | Sie schlichtet den Streit       | 0.93                          | O      |
+| 98  | High             | Er rueckt den Stuhl             | 0.61                          | O      |
+| 99  | High             | Sie loeffelt die Suppe          | 0.59                          | O      |
+| 100 | High             | Er knetet den Teig              | 0.9                           | S      |
+| 101 | High             | Er ueberschreitet das Tempo     | 0.6                           | S      |
+| 102 | High             | Sie verschiebt den Termin       | 0.65                          | O      |
+| 103 | High             | Sie schreinert den Tisch        | 0.7                           | S      |
+| 104 | High             | Sie deckt den Tisch             | 0.9                           | S      |
+| 105 | High             | Er schliesst die Tuer           | 0.61                          | O      |
+| 106 | High             | Er verriegelt die Tuer          | 0.95                          | S      |
+| 107 | High             | Sie jaetet das Unkraut          | 0.68                          | O      |
+| 108 | High             | Er vereitelt das Verbrechen     | 0.6                           | S      |
+| 109 | High             | Er unterzeichnet den Vertrag    | 0.9                           | S      |
+| 110 | High             | Es zwitschern die Voegel        | 1                             | S      |
+| 111 | High             | Sie filtert das Wasser          | 0.64                          | O      |
+| 112 | High             | Er geht den Weg                 | 0.86                          | O      |
+| 113 | High             | Er geniesst das Wetter          | 0.6                           | S      |
+| 114 | High             | Er erlegt das Wild              | 0.6                           | O      |
+| 115 | High             | Sie buchstabiert das Wort       | 0.76                          | O      |
+| 116 | High             | Er verarztet die Wunde          | 0.6                           | S      |
+| 117 | High             | Er erreicht das Ziel            | 0.69                          | O      |
+| 118 | High             | Sie raucht die Zigarette        | 0.9                           | S      |
+| 119 | High             | Er tapeziert das Zimmer         | 0.64                          | O      |
+| 120 | High             | Er verpasst den Zug             | 0.56                          | O      |
+| 121 | Medium             | Er erledigt die Aufgabe         | 0.35                          | S      |
+| 122 | Medium             | Sie vergisst die Aussage        | 0.23                          | O      |
+| 123 | Medium             | Er verkauft das Auto            | 0.3                           | S      |
+| 124 | Medium             | Er faehrt das Auto              | 0.54                          | O      |
+| 125 | Medium             | Er ueberholt den Autofahrer     | 0.15                          | S      |
+| 126 | Medium             | Er aendert das Bad              | 0.12                          | O      |
+| 127 | Medium             | Sie rollt die Baelle            | 0.15                          | S      |
+| 128 | Medium             | Er faengt den Ball              | 0.35                          | S      |
+| 129 | Medium             | Er beraubt die Bank             | 0.35                          | S      |
+| 130 | Medium             | Er stutzt den Baum              | 0.35                          | S      |
+| 131 | Medium             | Sie bearbeitet das Beet         | 0.12                          | O      |
+| 132 | Medium             | Er untersucht das Bein          | 0.24                          | O      |
+| 133 | Medium             | Er besteigt den Berg            | 0.55                          | S      |
+| 134 | Medium             | Sie beschreibt das Bett         | 0.16                          | O      |
+| 135 | Medium             | Er sieht das Bier               | 0.16                          | O      |
+| 136 | Medium             | Sie starrt auf das Bild         | 0.21                          | S      |
+| 137 | Medium             | Sie knickt das Blatt            | 0.5                           | S      |
+| 138 | Medium             | Sie zerkaut den Bleistift       | 0.15                          | S      |
+| 139 | Medium             | Sie pflanzt die Blumen          | 0.5                           | S      |
+| 140 | Medium             | Sie saugt den Boden             | 0.5                           | S      |
+| 141 | Medium             | Er kauft das Bonbon             | 0.24                          | O      |
+| 142 | Medium             | Sie verteilt das Brot           | 0.16                          | O      |
+| 143 | Medium             | Sie leiht das Buch              | 0.4                           | S      |
+| 144 | Medium             | Sie bemerkt das Deckchen        | 0.12                          | O      |
+| 145 | Medium             | Sie verwendet das Eis           | 0.16                          | O      |
+| 146 | Medium             | Sie korrigiert das Ergebnis     | 0.5                           | S      |
+| 147 | Medium             | Er kostet das Essen             | 0.52                          | O      |
+| 148 | Medium             | Er sitzt in der Falle           | 0.15                          | S      |
+| 149 | Medium             | Er vertuscht den Fehler         | 0.3                           | S      |
+| 150 | Medium             | Er besaet das Feld              | 0.52                          | O      |
+| 151 | Medium             | Sie verglast das Fenster        | 0.5                           | S      |
+| 152 | Medium             | Er organisiert das Fest         | 0.2                           | O      |
+| 153 | Medium             | Er erwaehnt das Feuer           | 0.16                          | O      |
+| 154 | Medium             | Er schwenkt die Flagge          | 0.25                          | S      |
+| 155 | Medium             | Es leuchten die Flammen         | 0.25                          | S      |
+| 156 | Medium             | Er hoert das Flugzeug           | 0.16                          | O      |
+| 157 | Medium             | Sie entwickelt das Foto         | 0.3                           | S      |
+| 158 | Medium             | Sie verfasst das Gedicht        | 0.15                          | S      |
+| 159 | Medium             | Er hŸtet das Geheimnis          | 0.45                          | S      |
+| 160 | Medium             | Sie versteckt das Geld          | 0.15                          | S      |
+| 161 | Medium             | Sie kocht das Gemuese           | 0.15                          | S      |
+| 162 | Medium             | Sie schreibt die Geschichte     | 0.1                           | S      |
+| 163 | Medium             | Sie waescht das Geschirr ab     | 0.4                           | S      |
+| 164 | Medium             | Sie schaetzt das Gewicht        | 0.4                           | S      |
+| 165 | Medium             | Er oeffnet das Glas             | 0.24                          | O      |
+| 166 | Medium             | Er kaut das Gras                | 0.2                           | O      |
+| 167 | Medium             | Sie bebaut das Grundstueck      | 0.3                           | S      |
+| 168 | Medium             | Sie schneidet die Haare         | 0.25                          | S      |
+| 169 | Medium             | Es stolziert der Hahn           | 0.2                           | S      |
+| 170 | Medium             | Sie erwirbt das Haus            | 0.16                          | O      |
+| 171 | Medium             | Er beantragt das Haus           | 0.2                           | O      |
+| 172 | Medium             | Sie hackt das Holz              | 0.2                           | S      |
+| 173 | Medium             | Sie bucht das Hotel             | 0.3                           | S      |
+| 174 | Medium             | Er schlachtet das Huhn          | 0.15                          | S      |
+| 175 | Medium             | Er krault den Hund              | 0.45                          | S      |
+| 176 | Medium             | Sie erntet die Kartoffeln       | 0.15                          | S      |
+| 177 | Medium             | Sie schleppt das Kind           | 0.15                          | S      |
+| 178 | Medium             | Er beaufsichtigt das Kind       | 0.4                           | S      |
+| 179 | Medium             | Sie ruft das Kind               | 0.5                           | S      |
+| 180 | Medium             | Sie waescht das Kleid           | 0.24                          | O      |
+| 181 | Medium             | Sie verletzt sich das Knie      | 0.55                          | S      |
+| 182 | Medium             | Sie verziert den Kuchen         | 0.4                           | S      |
+| 183 | Medium             | Sie besamt die Kuh              | 0.1                           | S      |
+| 184 | Medium             | Sie beliefert den Kunden        | 0.25                          | S      |
+| 185 | Medium             | Sie befaehrt das Land           | 0.24                          | O      |
+| 186 | Medium             | Er malt die Landschaft          | 0.25                          | S      |
+| 187 | Medium             | Er ertraegt das Leid            | 0.2                           | S      |
+| 188 | Medium             | Sie produziert das Lied         | 0.16                          | O      |
+| 189 | Medium             | Er stopft das Loch              | 0.45                          | S      |
+| 190 | Medium             | Er zaehmt den Loewen            | 0.2                           | S      |
+| 191 | Medium             | Sie operiert den Mann           | 0.2                           | S      |
+| 192 | Medium             | Er schluckt das Medikament      | 0.3                           | S      |
+| 193 | Medium             | Sie wiegt das Mehl              | 0.16                          | O      |
+| 194 | Medium             | Er pfeift die Melodie           | 0.3                           | S      |
+| 195 | Medium             | Er beachtet das Messer          | 0.24                          | O      |
+| 196 | Medium             | Er sortiert den Muell           | 0.35                          | S      |
+| 197 | Medium             | Sie pudert die Nase             | 0.55                          | O      |
+| 198 | Medium             | Er kachelt den Ofen             | 0.3                           | S      |
+| 199 | Medium             | Er leitet das Orchester         | 0.12                          | O      |
+| 200 | Medium             | Sie liefert das Paket           | 0.25                          | S      |
+| 201 | Medium             | Er pflegt das Pferd             | 0.16                          | O      |
+| 202 | Medium             | Er versaeumt die Pruefung       | 0.15                          | S      |
+| 203 | Medium             | Sie buegelt den Pullover        | 0.3                           | S      |
+| 204 | Medium             | Er begleicht die Rechnung       | 0.5                           | S      |
+| 205 | Medium             | Sie kruemmt den Ruecken         | 0.25                          | S      |
+| 206 | Medium             | Sie schmeckt das Salz           | 0.15                          | S      |
+| 207 | Medium             | Er erwartet das Schiff          | 0.12                          | O      |
+| 208 | Medium             | Er schippt den Schnee           | 0.35                          | S      |
+| 209 | Medium             | Es faellt der Schnee            | 0.25                          | S      |
+| 210 | Medium             | Sie braet das Schnitzel         | 0.5                           | S      |
+| 211 | Medium             | Er bindet den Schuh             | 0.5                           | S      |
+| 212 | Medium             | Er bewacht das Schwein          | 0.16                          | O      |
+| 213 | Medium             | Sie kennt das Spiel             | 0.12                          | O      |
+| 214 | Medium             | Sie behuetet den Stall          | 0.1                           | S      |
+| 215 | Medium             | Sie kuendigt die Stelle         | 0.25                          | S      |
+| 216 | Medium             | Sie sperrt die Straße           | 0.25                          | S      |
+| 217 | Medium             | Sie vermeidet den Streit        | 0.2                           | S      |
+| 218 | Medium             | Er zimmert den Stuhl            | 0.15                          | S      |
+| 219 | Medium             | Sie bringt die Suppe            | 0.14                          | O      |
+| 220 | Medium             | Er ruehrt den Teig              | 0.5                           | S      |
+| 221 | Medium             | Er verlangsamt das Tempo        | 0.35                          | S      |
+| 222 | Medium             | Sie vergisst den Termin         | 0.25                          | S      |
+| 223 | Medium             | Sie poliert den Tisch           | 0.15                          | S      |
+| 224 | Medium             | Sie verrueckt den Tisch         | 0.25                          | S      |
+| 225 | Medium             | Er repariert die Tuer           | 0.1                           | S      |
+| 226 | Medium             | Er reinigt die Tuer             | 0.21                          | O      |
+| 227 | Medium             | Sie rupft das Unkraut           | 0.16                          | O      |
+| 228 | Medium             | Er leugnet das Verbrechen       | 0.35                          | S      |
+| 229 | Medium             | Er praesentiert den Vertrag     | 0.17                          | O      |
+| 230 | Medium             | Es flattern die Voegel          | 0.5                           | S      |
+| 231 | Medium             | Sie reicht das Wasser           | 0.16                          | O      |
+| 232 | Medium             | Er beschreitet den Weg          | 0.35                          | S      |
+| 233 | Medium             | Er trotzt dem Wetter            | 0.45                          | S      |
+| 234 | Medium             | Er riecht das Wild              | 0.14                          | O      |
+| 235 | Medium             | Sie uebersetzt das Wort         | 0.4                           | S      |
+| 236 | Medium             | Er desinfiziert die Wunde       | 0.2                           | S      |
+| 237 | Medium             | Er verfehlt das Ziel            | 0.5                           | S      |
+| 238 | Medium             | Sie dreht die Zigarette         | 0.1                           | S      |
+| 239 | Medium             | Er streicht das Zimmer          | 0.3                           | S      |
+| 240 | Medium             | Er rangiert den Zug             | 0.4                           | S      |
+| 241 | Low             | Er vernachlaessigt die Aufgabe  | 0                             | S      |
+| 242 | Low             | Sie kontrolliert die Aussage    | 0                             | S      |
+| 243 | Low             | Er kriegt das Auto              | 0.08                          | O      |
+| 244 | Low             | Er entrostet das Auto           | 0.09                          | O      |
+| 245 | Low             | Er fragt den Autofahrer         | 0                             | S      |
+| 246 | Low             | Er durchsucht das Bad           | 0                             | S      |
+| 247 | Low             | Sie findet die Baelle           | 0                             | S      |
+| 248 | Low             | Er kauft den Ball               | 0                             | S      |
+| 249 | Low             | Er besucht die Bank             | 0                             | S      |
+| 250 | Low             | Er verletzt den Baum            | 0.04                          | O      |
+| 251 | Low             | Sie lockert das Beet            | 0                             | S      |
+| 252 | Low             | Er testet das Bein              | 0                             | S      |
+| 253 | Low             | Er zeichnet den Berg            | 0                             | S      |
+| 254 | Low             | Sie beschmutzt das Bett         | 0                             | S      |
+| 255 | Low             | Er bringt das Bier              | 0.05                          | S      |
+| 256 | Low             | Sie sieht das Bild              | 0                             | S      |
+| 257 | Low             | Sie zerreisst das Blatt         | 0.07                          | O      |
+| 258 | Low             | Sie verschenkt den Bleistift    | 0                             | S      |
+| 259 | Low             | Sie bestaunt die Blumen         | 0.05                          | S      |
+| 260 | Low             | Sie begutachtet den Boden       | 0.05                          | S      |
+| 261 | Low             | Er šffnet das Bonbon            | 0                             | S      |
+| 262 | Low             | Sie fertigt das Brot            | 0.05                          | S      |
+| 263 | Low             | Sie verleiht das Buch           | 0.06                          | O      |
+| 264 | Low             | Sie verliert das Deckchen       | 0                             | S      |
+| 265 | Low             | Sie haelt das Eis               | 0                             | S      |
+| 266 | Low             | Sie verbessert das Ergebnis     | 0.03                          | O      |
+| 267 | Low             | Er macht das Essen              | 0.04                          | O      |
+| 268 | Low             | Er konstruiert die Falle        | 0                             | S      |
+| 269 | Low             | Er beginnt den Fehler           | 0.05                          | S      |
+| 270 | Low             | Er misst das Feld               | 0.03                          | O      |
+| 271 | Low             | Sie beruecksichtigt das Fenster | 0.08                          | O      |
+| 272 | Low             | Er bejubelt das Fest            | 0.05                          | S      |
+| 273 | Low             | Er zerstoert das Feuer          | 0                             | S      |
+| 274 | Low             | Er rollt die Flagge ein         | 0                             | S      |
+| 275 | Low             | Es stehen die Flammen           | 0                             | S      |
+| 276 | Low             | Er bewegt das Flugzeug          | 0                             | S      |
+| 277 | Low             | Sie druckt das Foto             | 0                             | S      |
+| 278 | Low             | Sie kann das Gedicht            | 0.04                          | O      |
+| 279 | Low             | Er verdraengt das Geheimnis     | 0.05                          | S      |
+| 280 | Low             | Sie beobachtet das Geld         | 0                             | S      |
+| 281 | Low             | Sie behandelt das Gemuese       | 0                             | S      |
+| 282 | Low             | Sie glaubt die Geschichte       | 0.04                          | O      |
+| 283 | Low             | Sie benoetigt das Geschirr      | 0                             | S      |
+| 284 | Low             | Sie vergleicht das Gewicht      | 0                             | S      |
+| 285 | Low             | Er greift das Glas              | 0.06                          | O      |
+| 286 | Low             | Er klebt das Gras               | 0                             | S      |
+| 287 | Low             | Sie erschliesst das Grundstueck | 0.03                          | O      |
+| 288 | Low             | Sie sammelt die Haare           | 0                             | S      |
+| 289 | Low             | Es springt der Hahn             | 0                             | S      |
+| 290 | Low             | Sie erkennt das Haus            | 0                             | S      |
+| 291 | Low             | Er bewirft das Haus             | 0.05                          | S      |
+| 292 | Low             | Sie bricht das Holz             | 0.03                          | O      |
+| 293 | Low             | Sie bewertet das Hotel          | 0                             | S      |
+| 294 | Low             | Er teilt das Huhn               | 0                             | S      |
+| 295 | Low             | Er untersucht den Hund          | 0.05                          | S      |
+| 296 | Low             | Sie braucht die Kartoffeln      | 0                             | S      |
+| 297 | Low             | Sie benachrichtigt das Kind     | 0                             | S      |
+| 298 | Low             | Er befragt das Kind             | 0.04                          | O      |
+| 299 | Low             | Sie versetzt das Kind           | 0.05                          | S      |
+| 300 | Low             | Sie bewundert das Kleid         | 0.05                          | S      |
+| 301 | Low             | Sie streichelt das Knie         | 0                             | S      |
+| 302 | Low             | Sie bestellt den Kuchen         | 0.05                          | S      |
+| 303 | Low             | Sie betrauert die Kuh           | 0                             | S      |
+| 304 | Low             | Sie informiert den Kunden       | 0.03                          | O      |
+| 305 | Low             | Sie nennt das Land              | 0                             | S      |
+| 306 | Low             | Er veraendert die Landschaft    | 0                             | S      |
+| 307 | Low             | Er spuert das Leid              | 0.04                          | O      |
+| 308 | Low             | Sie kopiert das Lied            | 0                             | S      |
+| 309 | Low             | Er sucht das Loch               | 0                             | S      |
+| 310 | Low             | Er verlaesst den Loewen         | 0                             | S      |
+| 311 | Low             | Sie verpflichtet den Mann       | 0.09                          | O      |
+| 312 | Low             | Er bezahlt das Medikament       | 0                             | S      |
+| 313 | Low             | Sie pustet das Mehl             | 0                             | S      |
+| 314 | Low             | Er spielt die Melodie           | 0                             | S      |
+| 315 | Low             | Er verraeumt das Messer         | 0                             | S      |
+| 316 | Low             | Er holt den Muell               | 0                             | S      |
+| 317 | Low             | Sie bewegt die Nase             | 0.03                          | O      |
+| 318 | Low             | Er saeubert den Ofen            | 0                             | S      |
+| 319 | Low             | Er beordert das Orchester       | 0                             | S      |
+| 320 | Low             | Sie schliesst das Paket         | 0                             | S      |
+| 321 | Low             | Er sticht das Pferd             | 0.05                          | S      |
+| 322 | Low             | Er versucht die Pruefung        | 0.03                          | O      |
+| 323 | Low             | Sie traegt den Pullover         | 0.03                          | O      |
+| 324 | Low             | Er vergisst die Rechnung        | 0.05                          | S      |
+| 325 | Low             | Sie roentgt den Ruecken         | 0.05                          | S      |
+| 326 | Low             | Sie benutzt das Salz            | 0.08                          | O      |
+| 327 | Low             | Er betritt das Schiff           | 0                             | S      |
+| 328 | Low             | Er nimmt den Schnee             | 0                             | S      |
+| 329 | Low             | Es kommt der Schnee             | 0                             | S      |
+| 330 | Low             | Sie klopft das Schnitzel        | 0.05                          | S      |
+| 331 | Low             | Er stiehlt den Schuh            | 0                             | S      |
+| 332 | Low             | Er beruehrt das Schwein         | 0                             | S      |
+| 333 | Low             | Sie verstaut das Spiel          | 0                             | S      |
+| 334 | Low             | Sie baut den Stall aus          | 0                             | S      |
+| 335 | Low             | Sie entdeckt die Stelle         | 0                             | S      |
+| 336 | Low             | Sie kratzt die Straße           | 0                             | S      |
+| 337 | Low             | Sie verantwortet den Streit     | 0.04                          | O      |
+| 338 | Low             | Er verwandelt den Stuhl         | 0.03                          | O      |
+| 339 | Low             | Sie erhitzt die Suppe           | 0.05                          | S      |
+| 340 | Low             | Er zerteilt den Teig            | 0                             | S      |
+| 341 | Low             | Er ignoriert das Tempo          | 0                             | S      |
+| 342 | Low             | Sie bestaetigt den Termin       | 0.06                          | O      |
+| 343 | Low             | Sie hebt den Tisch              | 0.05                          | S      |
+| 344 | Low             | Sie zertruemmert den Tisch      | 0.05                          | S      |
+| 345 | Low             | Er erkennt die Tuer             | 0.05                          | S      |
+| 346 | Low             | Er dreht die Tuer               | 0                             | S      |
+| 347 | Low             | Sie hasst das Unkraut           | 0                             | S      |
+| 348 | Low             | Er filmt das Verbrechen         | 0                             | S      |
+| 349 | Low             | Er liest den Vertrag            | 0.05                          | S      |
+| 350 | Low             | Es fehlen die Voegel            | 0                             | S      |
+| 351 | Low             | Sie liebt das Wasser            | 0                             | S      |
+| 352 | Low             | Er bestimmt den Weg             | 0.04                          | O      |
+| 353 | Low             | Er fuerchtet das Wetter         | 0.05                          | S      |
+| 354 | Low             | Er erschrickt das Wild          | 0                             | S      |
+| 355 | Low             | Sie erlernt das Wort            | 0.08                          | O      |
+| 356 | Low             | Er reinigt die Wunde            | 0                             | S      |
+| 357 | Low             | Er ermittelt das Ziel           | 0.06                          | O      |
+| 358 | Low             | Sie verlangt die Zigarette      | 0                             | S      |
+| 359 | Low             | Er bevorzugt das Zimmer         | 0.08                          | O      |
+| 360 | Low             | Er erwischt den Zug             | 0.07                          | O      |
+
+: Sentences with cloze probability of the target word (noun) and the source of the sentences as mentioned in Chapter 5
+
+\noindent Sources: O=Obleser and Kotz(2010); S=SFB 1102, Project A4
+
+<!--```{=tex}
+\vspace{-1.5em}
+\tiny \noindent{Sources: O=Obleser and Kotz(2010); S=SFB 1102, Project A4}
+\small 
+```
+-->
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+# Forward prediction vs Backward guessing in Chapter 6 {#appendix-B}
+
+<!-- Results of the complementary analysis performed in Chapter \@ref(chapter-graded-prediction): -->
+Complementary analyses were performed on verb-accuracy in the noun-correct trials to examine the backward guessing effect.
+The complementary analyses showed that the main effects of target word predictability, channel condition and their interactions were significant.
+However, subsequent subgroup analyses showed that when listeners identified nouns correctly at 4 channels condition,
+their response accuracy (of verb recognition) in high predictability sentences was not different than in medium predictability sentences ($\beta$ = 0.19, SE = 0.29, *z*(1878) = 0.66, *p* = .51).
+There was only a significant difference in accuracy between low predictability and medium predictability sentences ($\beta$ = 0.56, SE = 0.28, *z*(1878) = 2.01, *p* = .04).
+Compared to the model estimates of accuracy in verb-correct trials (estimates $\beta$ = 1.14 and $\beta$ = 1.01),
+the accuracy for noun-correct trials ($\beta$ = 0.19 and $\beta$ = 0.56) were smaller (see Results and Conclusions of Chapter \@ref(chapter-graded-prediction)).
+
+<!--
+```{=tex}
+\begin{table}[h]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials}
+\label{gradedcomplementary1} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & 3.28 & .14 & 23.51 & \textless.001 \\
+\\
+Noise condition (4-channel) & -2.13 & .13 & -15.76 & \textless.001 \\
+\\
+Noise condition (6-channel) & -.35 & .14 & -2.55 & .011 \\
+\\
+Target word predictability (Low-Medium) & -.72 & .28 & -2.57 & .01 \\
+\\
+Target word predictability (High-Low) & .27 & .28 & .97 & .33 \\
+\\
+Noise condition (4-channel) $\times$ & .04 & .34 & .14 & .89 \\
+Target word predictability (Low-Medium) \\
+\\
+Noise condition (6-channel) $\times$ & .66 & .31 & 2.15 & .03 \\
+Target word predictability (Low-Medium) \\
+\\
+Noise condition (4-channel) $\times$ & .61 & .31 & 1.95 & .05 \\
+Target word predictability (High-Low) \\
+\\
+Noise condition (6-channel) $\times$ & .35 & .33 & 1.05 & .29 \\
+Target word predictability (High-Low) \\
+\\
+Global channel context $\times$ & -.37 & .13 & -2.80 & .005 \\
+(Unpredictable - Predictable) \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+-->
+
+: (\#tab:gradedcomplementary1) Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials
+
+| Fixed effects                                                                | Estimate | Std. error | *z* value | *p* value |
+|---------------|--------------:|--------------:|--------------:|--------------:|
+| Intercept                                                                    |     3.28 |        .14 |     23.51 |     <.001 |
+| Noise condition (4-channel)                                                  |    -2.13 |        .13 |    -15.76 |     <.001 |
+| Noise condition (6-channel)                                                  |     -.35 |        .14 |     -2.55 |      .011 |
+| Target word predictability (Low-Medium)                                      |     -.72 |        .28 |     -2.57 |       .01 |
+| Target word predictability (High-Low)                                        |      .27 |        .28 |       .97 |       .33 |
+| Noise condition (4-channel) $\times$ Target word predictability (Low-Medium) |      .04 |        .34 |       .14 |       .89 |
+| Noise condition (6-channel) $\times$ Target word predictability (Low-Medium) |      .66 |        .31 |      2.15 |       .03 |
+| Noise condition (4-channel) $\times$ Target word predictability (High-Low)   |      .61 |        .31 |      1.95 |       .05 |
+| Noise condition (6-channel) $\times$ Target word predictability (High-Low)   |      .35 |        .33 |      1.05 |       .29 |
+| Global channel context (Unpredictable - Predictable)                         |     -.37 |        .13 |     -2.80 |      .005 |
+
+<!-- ------------------------------------------------ -->
+
+<!--
+```{=tex}
+\begin{table}[h]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in 4-channel condition}
+\label{gradedcomplementary2} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & 1.17 & .13 & 8.90 & \textless.001 \\
+\\
+Target word predictability (Medium-Low) & .56 & .28 & 2.01 & .04 \\
+\\
+Target word predictability (High-Medium) & .19 & .29 & .66 & .51 \\
+\\
+Global channel context $\times$ & -.42 & .14 & -2.94 & .003 \\
+(Unpredictable - Predictable) \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+-->
+
+: (\#tab:gradedcomplementary2) Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in 4-channel condition
+
+| Fixed effects                                        | Estimate | Std. error | *z* value | *p* value |
+|---------------|--------------:|--------------:|--------------:|--------------:|
+| Intercept                                            |     1.17 |        .13 |      8.90 |     <.001 |
+| Target word predictability (Medium-Low)              |      .56 |        .28 |      2.01 |       .04 |
+| Target word predictability (High-Medium)             |      .19 |        .29 |       .66 |       .51 |
+| Global channel context (Unpredictable - Predictable) |     -.42 |        .14 |     -2.94 |      .003 |
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+# Forward prediction vs Backward guessing in Chapter 7 {#appendix-C}
+
+Results of the complementary analysis discussed in the Conclusion section of Chapter \@ref(chapter-speech-rate):
+
+We performed complementry analyses on noun-correct trials to compare the estimate of backward guessing effect and the forward prediction.
+The results showed that in both Experiments 1 (fast speech vs normal speech rate) and 2 (slow speech vs normal speech rate),
+the main effects of target word predictability and speech rate were significant while the interaction of the latter two was not significant (see Tables \@ref(tab:fastcomplementary) and \@ref(tab:slowcomplementary)).
+These model estimates, i.e., the effect of noun-correct trials ($\beta_{{noun}_{Exp1}}$ = .73 and $\beta_{{noun}_{Exp2}}$ = .78) were smaller than the model estimates of verb-correct trials presented in Chapter \@ref(chapter-speech-rate) ($\beta_{{verb}_{Exp1}}$ = 2.42 and $\beta_{{verb}_{Exp2}}$ = 2.58).
+Thus, these findings supported the interpretation of forward-prediction much more strongly than backward-guessing effect.
+
+<!--
+```{=tex}
+\begin{table}[h]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 1}
+\label{fastcomplementary} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & .55 & .18 & 3.00 & .003 \\
+\\
+Speech rate (Fast) & -.89 & .15 & -6.12 & \textless.001 \\
+\\
+Target word predictability (High) & .73 & .23 & 3.19 & .001 \\
+\\
+Speech rate $\times$ Target word predictability & .09 & .21 & .45 & .65 \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+-->
+
+: (\#tab:fastcomplementary) Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 1
+
+| Fixed effects                                   | Estimate | Std. error | *z* value | *p* value |
+|---------------|--------------:|--------------:|--------------:|--------------:|
+| Intercept                                       |      .55 |        .18 |      3.00 |      .003 |
+| Speech rate (Fast)                              |     -.89 |        .15 |     -6.12 |     <.001 |
+| Target word predictability (High)               |      .73 |        .23 |      3.19 |      .001 |
+| Speech rate $\times$ Target word predictability |      .09 |        .21 |       .45 |       .65 |
+
+
+<!-- ------------------------------------------------ -->
+
+<!--
+```{=tex}
+\begin{table}[H]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 2}
+\label{slowcomplementary} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & .89 & .19 & 4.71 & \textless.001 \\
+\\
+Speech rate (Slow) & -.20 & .11 & -1.82 & .07 \\
+\\
+Target word predictability (High) & .78 & .24 & 3.23 & .001 \\
+\\
+Speech rate $\times$ Target word predictability & .22 & .16 & 1.413 & .15 \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+-->
+
+: (\#tab:slowcomplementary) Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 2
+
+| Fixed effects                                   | Estimate | Std. error | *z* value | *p* value |
+|---------------|--------------:|--------------:|--------------:|--------------:|
+| Intercept                                       |      .89 |        .19 |      4.71 |     <.001 |
+| Speech rate (Slow)                              |     -.20 |        .11 |     -1.82 |       .07 |
+| Target word predictability (High)               |      .78 |        .24 |      3.23 |      .001 |
+| Speech rate $\times$ Target word predictability |      .22 |        .16 |     1.413 |       .15 |
+
+
+
+
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+# Data and code {#appendix-D}
+
+All the code, data, and experimental lists used in the studies presented in this thesis, are available in the following publicly accessible repository: https://osf.io/rtsz3/.
+
+
+# Ethics and funding {#appendix-E}
+
+\noindent 
+
+**Ethics**: The studies presented in this thesis involved human subjects.
+All subjects were recruited following the recommendations of the American Psychological Association.
+All subjects provided an informed consent in accordance with the Declaration of Helsinki.
+The ethics committee of the Deutsche Gesellschaft für Sprache (DGfS; EN: German Society for Language Science) provided ethical approval for the experiments conducted.
+
+**Funding**: The research presented in this thesis was funded by the Deutsche Forschungsgemeinschaft (DFG; EN: German Research Foundation) under the research grant SFB1102 (Sonderforschungsbereiche; EN: Collaborative Research Center), Project ID 232722074.

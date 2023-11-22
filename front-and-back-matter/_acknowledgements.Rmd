@@ -1,0 +1,88 @@
+This dissertation is a culmination of almost four years of work I conducted as a PhD student.
+Several people, events and circumstances made it possible for me to start and finish the journey through my PhD.
+Family, friends, colleagues, and even strangers have helped me arrive at this juncture of life.
+
+My family --- *baa, aamaa, bhai, buhari* --- has been there with me every step of the way.
+Words fall short of expressing gratitude towards them!
+
+I am very grateful to my supervisors, Jutta Kray and Vera Demberg, for taking me in.
+They gave me the freedom to pursue my interests but knew well when it was time to set me back on course.
+All these years, they were considerate of my health and working schedule;
+I couldn't ask for more.
+I was lucky to have supervisors from two different departments:
+I learnt from their unique perspectives in all the scientific works.
+I got the best of both worlds from Psychology and Computational Linguistics.
+
+I express my gratitude to Jutta for trusting and encouraging me to grow and develop as a researcher.
+She did not let me get distracted by all the exciting topics in the field.
+Perhaps ``doing science'' requires focusing on a specific set of questions, pursuing them, and not getting distracted.
+I am grateful to Jutta for sharing her experiences and letting me learn from them.
+
+I express my gratitude to Vera for guiding, inspiring, and pushing me beyond my comfort zone ---
+I appreciate the challenging discussions on various aspects of our studies.
+Vera has always been accessible.
+She has created a lab, a group that is like a family and not just a workplace.
+I will miss everyone and everything, from the rigorous interdisciplinary scientific discussion to hiking, board games, dinners, and whatnot!
+
+I am thankful to Axel Mecklinger for taking the responsibility of a reviewer of my thesis, and to Cornelius König for chairing the thesis committee.
+Thanks also to Dirk Wentura and Katja Häuser for agreeing to be a part of the committee.
+
+
+It must be my good luck that I had some brilliant and inspiring researchers mentoring me.
+I cannot thank Yoana Vergilova enough, who has been my mentor since my first day at Saarland University.
+Her feedback always propelled the pace of the development of my project.
+Our conversations about human society, as well as different aspects of psycholinguistic and neuroscience research, have had a significant impact on my work.
+Its imprints can be seen in the pages that follow.
+Thanks also to Katja for the discussion on prediction, ageing, and statistics.
+Some of our discussions left me with questions, the answer to which I have attempted to find and write in this dissertation.
+My gratitude goes to Bernd Möbius for his guidance in the development of one of my projects.
+I joined the Collaborative Research Center (SFB 1102) around the same time as Marjolein van Os and Anupama Chingacham on the same project.
+I cannot thank Marjolein enough for her academic companionship, for listening to my experiences and sharing hers: the pain, difficulties, and joy we encountered along the PhD journey.
+Our discussion on language comprehension, predictive processing, statistics, and everything-PhD are all imprinted in this dissertation.
+I also extend my gratitude to Anu for always encouraging me and checking in.
+ She was generous with her time and effort to answer my questions about the `language of the machines'.
+
+
+The student research assistants have assisted me to a great extent in different stages of the experiments, from creating stimuli to annotating participants' responses.
+Thanks to Katharina Stein, Valentin Kany, Melanie Hilz, Sarah Memeche and Amélie Leibrock.
+
+My colleagues Marian Marchal, Kaveri Anuranjana, and Emilia Ellisiepan have been incredibly generous with their time and resources.
+I thank them.
+I also thank Lena Müller, Corinna Lorenz, Margarita Ryzhova, Xudong Hong, Jia Ern Loy, Frances Pikyu Yung, Sasha Mayn, Jingqi Yan, Dongqi Pu, and Merel Scholman.
+I am especially grateful to Marian for patiently and critically reading through the chapters of this dissertation.
+(Of course, all the errors are my own.)
+She is not just a great academic but also a kind and wonderful friend.
+
+The Collaborative Research Center (SFB) was genuinely collaborative, not just academically but also in building a network of people.
+I want to thank Ivan Yuen, Omnia Ibrahim, Iona Gessinger, Koel Dutta Chowdhury, Badr Abdullah, Linda Sommerfield, Torsten Jachmann, Christoph Aurnhammer, and Julia Meßmer. 
+ Many thanks to the past and present members of the SFB coordination office: Patricia Borrull Enguix, Diana Steffen, Sabine Loskyll, and Marie-Ann Kühne.
+Their helping hands made the cumbersome paperwork easier.
+Thanks goes also to the former secretary at Vera's office, Gabriele Reibold, who dealt with a wide range of issues, bureaucratic and otherwise, to make my life easier when I was just starting the PhD.
+I wish some ease for her.
+
+Many people outside the immediate vicinity of my research project have also contributed to this dissertation.
+I am forever grateful to Saadullah Amin, without whom I couldn't possibly have completed this dissertation.
+Saad is an empathetic friend;
+his moral and emotional support kept me going through the hard times.
+Thanks to my friends who listened to my rants, complaints and cries for years and yet encouraged me to persevere and enjoy the journey:
+spontaneous meetups and trips with Kirk Goodard, Trisha Thomas, and Liu Mengxing added excitement to talking about brain and language.
+Despite being miles away, Keshav Poudel has always inspired me to be a better human being.
+I thank him for being a harsh critic and a loving friend.
+Thanks to Tobias Schneider and Pratiti Bhadra for regularly checking in on my health and research.
+I'm grateful to my lovely neighbours Maria and Felix Hubert, who quite literally saved my life and have cared for me.
+
+My gratitude goes to Magda Altmann and James Hartzell who have been my home away from home.
+They have always provided a shelter of perspectives when I felt I ran out of hope and vision.
+They inspire me to live life to its fullest.
+
+I wouldn't even have known about the scientific research in cognitive science if Lekhnath Pathak (Tribhuvan University, Nepal) had not introduced me to the field and if Ramesh Kumar Mishra (University of Hyderabad, India) had not trusted me and trained me in his lab.
+I am forever indebted to them both.
+Thanks also to my Master's thesis supervisor David Soto (BCBL, Spain), who introduced me to the world of predictive processing.
+
+Finally, thanks to the strangers who never failed to remind me of "my ground".
+
+\begin{flushright}
+Pratik Bhandari \\
+Saarbrücken \\
+17 October 2022
+\end{flushright}

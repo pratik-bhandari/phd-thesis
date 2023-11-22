@@ -1,0 +1,33 @@
+It seems pretty easy to listen to and understand someone speaking.
+However, our day-to-day conversations occur under adverse listening conditions.
+For example, background noise comes from different sound sources, multiple people talk simultaneously (e.g., in a café), a poor signal connection distorts the voice of a person talking on the other end of a telephone call, and the list goes on.
+Despite these adversities, most of the time, we communicate successfully.
+One of the significant contributors to our ability to understand language in adverse listening conditions is *predictive language processing*.
+
+Humans are not passive consumers of language:
+we use the information available to us from a context and predict the not-yet-encountered, upcoming linguistic events.
+We do not wait for a speech signal to unfold completely to decode its meaning.
+This feature of human language processing is critical in understanding speech in adverse listening conditions.The studies in this thesis are timely in the field when the discussion about the role of prediction in language processing is vibrant and to some extent---heated.
+Some argue that prediction is a universal phenomenon, not only of language, but of human cognition, in general.
+The present thesis examined the boundary conditions of predictive language processing.
+We investigated if linguistic predictions are *automatic*, or if they are constrained by other factors like top-down attention regulation and bottom-up processing of different speech rates in degraded speech comprehension.
+
+In this thesis, we examined how listeners can use context information and form predictions while listening to speech at different levels of degradation.
+The central theme of the thesis is the investigation of the interactions between top-down semantic predictions and bottom-up auditory processing in adverse listening conditions under the theoretical framework of predictive processing and the noisy channel model of communication.
+We first introduce these concepts of top-down--bottom-up interactions in adverse listening conditions,
+then report the experiments that empirically investigated different aspects of degraded speech comprehension and the top-down -- bottom-up interactions.
+Our findings showed that to understand a speaker's utterance in a noisy channel (e.g., due to the degradation of speech signal),
+a listener takes into account the noise in the signal as well as the context information to form lexical-semantic predictions.
+
+Studies have shown that lexical-semantic predictions facilitate language comprehension.
+We investigated if such a facilitatory effect of linguistic predictions is observed at all levels of speech degradation.
+We also addressed the debate on the nature of predictability effect (graded vs all-or-nothing).
+
+The studies in this thesis concluded that comprehension of degraded speech is predictive in nature:
+language processing in a noisy channel is probabilistic and rational.
+Listeners weigh top-down predictive (lexical-semantic cues) and bottom-up auditory (acoustic-phonetic cues) processes.
+When the speech degradation is not severe, they can rely on the bottom-up input of an upcoming word (i.e., what they actually heard), regardless of the context information available to them.
+When the speech is moderately degraded but intelligible enough, they generate predictions about the upcoming word from the context information.
+In addition, the *weighing* of lexical-semantic and acoustic-phonetic cues is also modulated by attention regulation and speech rate.
+
+Taken together, this thesis contributes to a better understanding of the dynamic interaction between top-down and bottom-up processes in speech comprehension.
